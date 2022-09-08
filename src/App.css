@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: linear-gradient(to left,
+            rgb(25, 30, 41) 0%,
+            rgb(179, 4, 4) 100%);
+    text-align: center;
+    color: rgb(246, 251, 255);
+}
+
+.app-title {
+    margin-top: 65px;
+    margin-bottom: 50px;
+    font-size: 3rem;
+    font-family: 'Bungee Inline', cursive;
+}
+
